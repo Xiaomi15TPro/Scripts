@@ -1,0 +1,3 @@
+repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xiaomi15TPro/123123112/refs/heads/main/Xocody%20V2"))()
+-------key system soon-----
